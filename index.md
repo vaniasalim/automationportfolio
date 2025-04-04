@@ -10,15 +10,14 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# My Automation Projects
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Expense Tracking Automation
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> This is my first ever automation project. I used n8n to build this workflow, with the additional assistance from ChatGPT to create a regular expression (RegEx). Apart from that, I did not use AI to scan through my transactions, since I'm not comfortable sharing my transaction data with a proprietary model.
+> **The problem**: I'm having trouble keeping track of my monthly expenses. Maintaining a daily transaction log is just too much hassle for me. I ended up forgetting to log some of the transactions made.
+> **The solution**: I build an automated workflow that can log and categorize my transactions based on the transaction receipts that I received on my personal email.
+> **Disclaimer**: I have a couple of mobile banking apps, but I am limiting my expense-tracking scope to the top 3 apps that I used the most. This workflow also exclue transactions made on my credit card, except for the ones made on 1 particular ride-hailing app that I used daily.
 
 ### Header 3
 
@@ -58,7 +57,9 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+# About Me
+
+I'm a full-time banker who is currently on a self-discovery journey; exploring AI, automations, and more. I will be sharing my journey and project portfolio here. ### There's a horizontal rule below this.
 
 * * *
 
